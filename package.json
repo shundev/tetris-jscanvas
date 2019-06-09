@@ -1,0 +1,23 @@
+{
+  "name": "tetris",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel src/index.pug"
+  },
+  "dependencies": {
+    "pixi.js": "^5.0.4",
+    "vue": "^2.6.10",
+    "vue-hot-reload-api": "^2.3.3"
+  },
+  "devDependencies": {
+    "@vue/component-compiler-utils": "^3.0.0",
+    "parcel-bundler": "^1.12.3",
+    "pug": "^2.0.3",
+    "sass": "^1.21.0",
+    "stylus": "^0.54.5",
+    "typescript": "^3.5.1",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
